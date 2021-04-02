@@ -1,0 +1,31 @@
+
+let aa = 9;
+
+console.log("liuminghao age is " + aa);
+
+class Greeter {
+    greeting: string;
+    constructor(message: string) {
+        this.greeting = message;
+    }
+    greet() {
+        return "Hello, " + this.greeting;
+    }
+}
+
+let greeter = new Greeter("world");
+
+console.log(greeter.greeting);
+
+
+function add(x,y) {
+    return x+y;
+
+}
+
+let myAdd = function(x,y) 
+{
+    return x+y;
+}
+
+
