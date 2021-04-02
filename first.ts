@@ -29,7 +29,8 @@ function add(x,y) {
 
 let myAdd = function(x,y) 
 {
-    return x+y;
+    retunr x*y;
+    //return x+y;
 }
 
 
