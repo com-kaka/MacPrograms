@@ -1,4 +1,8 @@
 
+/*
+This is TypeScript programs by MacOS
+*/
+
 let aa = 9;
 
 console.log("liuminghao age is " + aa);
